@@ -1,0 +1,356 @@
+{
+  "partner": [
+    {
+      "name": "John Doeas",
+      "personName": "Alice Smit",
+      "email": "john.doe@example.com",
+      "id": 100000,
+      "status": "deactive",
+      "creationDate": "09.08.2023 23:34"
+    },
+    {
+      "id": 100002,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "personName": "Bob Johnson",
+      "creationDate": "07.08.2023 00:01",
+      "status": "active"
+    },
+    {
+      "id": 100032,
+      "name": "Ella Brown",
+      "email": "ella.brown@example.com",
+      "personName": "Sam Wilson",
+      "creationDate": "07.08.2023 00:00",
+      "status": "active"
+    },
+    {
+      "id": 100543,
+      "name": "New User 1",
+      "email": "newuser1@example.com",
+      "personName": "New Person 1",
+      "creationDate": "07.08.2023 00:08",
+      "status": "active"
+    },
+    {
+      "id": 100700,
+      "name": "New User 2",
+      "email": "newuser2@example.com",
+      "personName": "New Person 2",
+      "creationDate": "07.08.2023 00:12",
+      "status": "deactive"
+    },
+    {
+      "id": 101000,
+      "name": "New User 10",
+      "email": "newuser10@example.com",
+      "personName": "New Person 10",
+      "creationDate": "07.08.2023 00:20",
+      "status": "active"
+    },
+    {
+      "name": "BMW",
+      "personName": "Mikcel",
+      "email": "bmw@gmail.com",
+      "status": "deactive",
+      "creationDate": "09.08.2023 23:23",
+      "id": 101001
+    },
+    {
+      "name": "as",
+      "personName": "sa",
+      "email": "qw@gmail.com",
+      "status": "active",
+      "creationDate": "09.08.2023 23:31",
+      "id": 101002
+    },
+    {
+      "name": "as",
+      "personName": "sa",
+      "email": "qw@gmail.com",
+      "status": "active",
+      "creationDate": "09.08.2023 23:32",
+      "id": 101003
+    },
+    {
+      "name": "Acccc",
+      "personName": "asasas",
+      "email": "222@gmail.com",
+      "status": "deactive",
+      "creationDate": "10.08.2023 23:26",
+      "id": 101004
+    },
+    {
+      "name": "Acccc",
+      "personName": "asasas",
+      "email": "222@gmail.com",
+      "status": "active",
+      "creationDate": "10.08.2023 23:26",
+      "id": 101005
+    },
+    {
+      "name": "Acccc",
+      "personName": "asasas",
+      "email": "222@gmail.com",
+      "status": "active",
+      "creationDate": "10.08.2023 23:26",
+      "id": 101006
+    },
+    {
+      "name": "Acccc",
+      "personName": "asasas",
+      "email": "222@gmail.com",
+      "status": "active",
+      "creationDate": "10.08.2023 23:26",
+      "id": 101007
+    },
+    {
+      "name": "asdas",
+      "personName": "sadda",
+      "email": "1@gmail.com",
+      "status": "active",
+      "creationDate": "10.08.2023 23:42",
+      "id": 101008
+    },
+    {
+      "name": "asda",
+      "personName": "asd",
+      "email": "as@asd",
+      "status": "deactive",
+      "creationDate": "10.08.2023 23:43",
+      "id": 101009
+    },
+    {
+      "name": "as",
+      "personName": "asdasssss",
+      "email": "dsa@asda",
+      "status": "deactive",
+      "creationDate": "10.08.2023 23:44",
+      "id": 101010
+    },
+    {
+      "name": "asd",
+      "personName": "asd",
+      "email": "2s@awd",
+      "status": "active",
+      "creationDate": "10.08.2023 23:44",
+      "id": 101011
+    },
+    {
+      "name": "asas",
+      "personName": "asd",
+      "email": "das@asd",
+      "status": "active",
+      "creationDate": "10.08.2023 23:45",
+      "id": 101012
+    },
+    {
+      "name": "And",
+      "personName": "Molorsas",
+      "email": "q@MAIL.RU",
+      "status": "active",
+      "creationDate": "11.08.2023 15:02",
+      "id": 101013
+    },
+    {
+      "name": "AAAAAAA",
+      "personName": "AAAAAAA",
+      "email": "A@GMAIL.COM",
+      "status": "active",
+      "creationDate": "11.08.2023 15:02",
+      "id": 101014
+    },
+    {
+      "name": "A",
+      "personName": "a",
+      "email": "2@hmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:03",
+      "id": 101015
+    },
+    {
+      "name": "asaa",
+      "personName": "asas",
+      "email": "asassa@gmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:03",
+      "id": 101016
+    },
+    {
+      "name": "asaa",
+      "personName": "asas",
+      "email": "tigransirekanyan2001@gmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:04",
+      "id": 101017
+    },
+    {
+      "name": "aaaaa",
+      "personName": "aaaa",
+      "email": "asassa@gmaIIIIIIIl.comaa",
+      "status": "deactive",
+      "creationDate": "11.08.2023 15:04",
+      "id": 101018
+    },
+    {
+      "name": "assas@gamil.com",
+      "personName": "20012001",
+      "email": "2112112@gmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:07",
+      "id": 101019
+    },
+    {
+      "name": "aasdas",
+      "personName": "aasdas",
+      "email": "a@gmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:10",
+      "id": 101020
+    },
+    {
+      "name": "a",
+      "personName": "a",
+      "email": "a@gmail.com",
+      "status": "deactive",
+      "creationDate": "11.08.2023 15:10",
+      "id": 101021
+    },
+    {
+      "name": "aaaaa",
+      "personName": "asas",
+      "email": "asassa@gmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:10",
+      "id": 101022
+    },
+    {
+      "name": "as",
+      "personName": "asa",
+      "email": "asas@gmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:14",
+      "id": 101023
+    },
+    {
+      "name": "asaa",
+      "personName": "asas",
+      "email": "asassa@gmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:14",
+      "id": 101024
+    },
+    {
+      "name": "aaaaa",
+      "personName": "asas",
+      "email": "asassa@gmaIIIIIIIl.comaa",
+      "status": "active",
+      "creationDate": "11.08.2023 15:16",
+      "id": 101025
+    },
+    {
+      "name": "asaa",
+      "personName": "asas",
+      "email": "asassa@gmaIIIIIIIl.comaa",
+      "status": "active",
+      "creationDate": "11.08.2023 15:16",
+      "id": 101026
+    },
+    {
+      "name": "as",
+      "personName": "as",
+      "email": "a@gmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:16",
+      "id": 101027
+    },
+    {
+      "name": "asass",
+      "personName": "212",
+      "email": "qaw@gmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:20",
+      "id": 101028
+    },
+    {
+      "name": "qas@!",
+      "personName": "qwqw",
+      "email": "1@GMAIL.COM",
+      "status": "active",
+      "creationDate": "11.08.2023 15:21",
+      "id": 101029
+    },
+    {
+      "name": "AA",
+      "personName": "SS",
+      "email": "AA@GMMAIL.C",
+      "status": "deactive",
+      "creationDate": "11.08.2023 15:23",
+      "id": 101030
+    },
+    {
+      "name": "SS",
+      "personName": "AAS",
+      "email": "AA@gmail.com",
+      "status": "deactive",
+      "creationDate": "11.08.2023 15:26",
+      "id": 101031
+    },
+    {
+      "name": "as",
+      "personName": "as",
+      "email": "1sw@gmail.com",
+      "status": "active",
+      "creationDate": "11.08.2023 15:50",
+      "id": 101032
+    },
+    {
+      "name": "aaaaa",
+      "personName": "aaaa",
+      "email": "tigransirekanyan2001@gmail.com",
+      "status": "deactive",
+      "creationDate": "11.08.2023 15:51",
+      "id": 101033
+    },
+    {
+      "name": "a",
+      "personName": "as",
+      "email": "sa@gmail.com",
+      "status": "deactive",
+      "creationDate": "11.08.2023 15:52",
+      "id": 101034
+    },
+    {
+      "name": "as",
+      "personName": "as",
+      "email": "asa@as.ca",
+      "status": "deactive",
+      "creationDate": "11.08.2023 15:55",
+      "id": 101035
+    },
+    {
+      "name": "last",
+      "personName": "last",
+      "email": "last@mail.ru",
+      "status": "active",
+      "creationDate": "21.08.2023 13:32 ",
+      "id": 101036
+    },
+    {
+      "name": "as",
+      "personName": "as",
+      "email": "dsas@gmail.com",
+      "status": "active",
+      "creationDate": "28.08.2023 16:04  ",
+      "id": 101037
+    },
+    {
+      "name": "TototGaming",
+      "personName": "Sahak Mamyan",
+      "email": "sahaksamayan@info.com",
+      "status": "active",
+      "creationDate": "31.08.2023 10:55 ",
+      "id": 101038
+    }
+  ]
+}
